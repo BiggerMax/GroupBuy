@@ -1,0 +1,18 @@
+PODS:
+  - Bolts/Tasks (1.8.4)
+  - FDFullscreenPopGesture (1.1)
+  - Parse (1.15.0):
+    - Bolts/Tasks (~> 1.8)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture (~> 1.1)
+  - Parse
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  Parse: c0519f8fbf57bd0334f75cd22ac032d86ee55464
+
+PODFILE CHECKSUM: 88f84ea3569a7410c162f041085070d1702b4147
+
+COCOAPODS: 1.2.1.beta.1
